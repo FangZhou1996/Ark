@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T19:59:36.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="l52W0QGZG1a6CPpKPbAM" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T20:08:31.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8HVzyxDVDtX_HFYlTB6K" version="14.1.7" type="github">
   <diagram id="523TajJfXd_A70vdMx1W" name="Page-1">
     <mxGraphModel dx="1662" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
             <mxPoint x="440" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yOdMG2tYJBsYnfzHb0X7-11" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 14px&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;Divided into two groups：&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;Received operation group (n = 426)&lt;/div&gt;Preoperative death group (n = 71)&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;" vertex="1" parent="1">
+        <mxCell id="yOdMG2tYJBsYnfzHb0X7-11" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 14px&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;Divided into two groups：&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;Received operation group (n = 427)&lt;/div&gt;Preoperative death group (n = 71)&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;align=center;" vertex="1" parent="1">
           <mxGeometry x="265" y="584.5" width="270" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="yOdMG2tYJBsYnfzHb0X7-12" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yOdMG2tYJBsYnfzHb0X7-5" target="yOdMG2tYJBsYnfzHb0X7-11">
